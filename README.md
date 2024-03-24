@@ -1,5 +1,7 @@
 # TuLink - 一个生成重定向链接的api，可用于短域名
 
+<img src="https://img.shields.io/badge/Features 特性-json文件储存代替数据库，直接杜绝注入风险，可内存溢出-blue">
+
 起因就是qqbot只能发送备案域名，有人向我借二级域名，不放心就写了一个短域名程序便于监控，同时温习长久未动的flask
 
 ## 使用方法
