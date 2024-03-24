@@ -1,0 +1,8 @@
+{
+    "token1": [
+        { "username":"user1", "ip":"none" }
+    ],
+    "token2": [
+        { "username":"user2", "ip":"none" }
+    ]
+}
